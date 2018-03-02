@@ -29,3 +29,11 @@ ECM is not intended as a tool to aid in acts of copyright infringement
 * Original Author: Neill Corlett
 * Original homepage Project: http://www.neillcorlett.com/ecm/
 * Wayback Machine Copy: https://web.archive.org/web/20140328062622/http://www.neillcorlett.com/ecm/
+
+
+📚 Documentation
+-----------------
+
+Check available documentation in Wiki section:
+
+- https://github.com/RDCH106/ECM/wiki
